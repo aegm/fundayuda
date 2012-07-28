@@ -1,0 +1,43 @@
+	
+/*      V1        */
+	
+*{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+#menu4 {
+	width: 200px;
+	border-style: solid solid none solid;
+	border-color: #D76100;
+	border-size: 1px;
+	border-width: 1px;
+	}
+	
+#menu4 li a {
+  	height: 32px;
+  	voice-family: "\"}\""; 
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+	}
+	
+#menu4 li a:link, #menu4 li a:visited {
+	color: #9E3C02;
+	display: block;
+	background: url(images/menu4.gif);
+	padding: 8px 0 0 30px;
+	}
+	
+#menu4 li a:hover {
+	color: #fff;
+	background: url(images/menu4.gif) 0 -32px;
+	padding: 8px 0 0 30px;
+	}
+	
+#menu4 li a:active {
+	color: #fff;
+	background: url(images/menu4.gif) 0 -64px;
+	padding: 8px 0 0 30px;
+	}	
